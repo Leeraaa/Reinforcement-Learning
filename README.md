@@ -4,8 +4,6 @@
 
 ## Overview
 
-This project was developed as part of the Reinforcement Learning course at HIT (Holon Institute of Technology).
-
 The goal of the project is to train autonomous agents to solve the LunarLander-v3 environment using two popular Deep Reinforcement Learning algorithms:
 
 * Deep Q-Network (DQN)
